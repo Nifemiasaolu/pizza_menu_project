@@ -1,3 +1,4 @@
-# Pizza Menu
+# Pizza Menu (first React project)
 
-Building Pizza menu using React (first React project)
+Building Pizza menu using React 
+<!-- ///////// -->
