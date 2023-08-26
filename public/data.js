@@ -42,5 +42,3 @@ const pizzaData = [
     soldOut: false,
   },
 ];
-
-//////////////////////
